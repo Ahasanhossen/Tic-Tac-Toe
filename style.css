@@ -1,22 +1,29 @@
+body{
+    background-color: black;
+}
+
 .win{
     justify-content: center;
     text-align: center; 
+
 }
 .winner{
     text-align: center;
     font-size: 9vmin;
+    color: aliceblue;
 }
 .new-game{
     padding: 1rem;
     border: none;
     border-radius: 1rem;
-    background-color: black;
+    background-color: rgb(183 17 205);
     color: azure;
     
 }
 .heading{
   text-align: center;
   font-size: 4vmin;  
+  color: aliceblue;
 }
 
 .container{
@@ -40,7 +47,7 @@
     border-radius: 1rem;
     border: none;
     background-color: aquamarine;
-    color: rgb(25, 23, 23);
+    color: rgb(94, 220, 51);
     font-size: 8vmin;
 
 
@@ -49,7 +56,7 @@
     padding: 1rem;
     border: none;
     border-radius: 1rem;
-    background-color: black;
+    background-color:rgb(183 17 205);
     color: azure;
     
 }
